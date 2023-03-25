@@ -1,0 +1,433 @@
+@media(min-width:481px) and (max-width:768px)
+{
+    *
+{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+.hedding
+{
+    height: 147px;
+    width: 100%;
+    background-color:whitesmoke;
+    display: flex;
+}
+.logo1
+{
+    height: 64px;
+    width: 22%;
+    
+}
+.logo1 img
+{
+    height: 30px;
+    width: 100%;
+    padding-left: 50px;
+    margin-top: 30px;
+}
+.nav
+{
+    height: auto;
+    width: 70%;
+    padding-top: 10px;
+    padding-left: 10%;
+    
+}
+.nav ul
+{
+    height: 137px;
+    width:100%;
+   
+}
+.nav ul li
+{
+    list-style: none;
+    float: left;
+    padding: 25px 30px;
+
+} 
+.text
+{
+    height: 73px;
+    width: 30%;
+    margin-top: 50px;
+}
+.text button 
+{
+    height: 50px;
+    width:  54%;
+    border: 3px solid;
+    margin-left: 15%;
+    background-color: #010978;
+    color: white;
+    border: none;
+}
+.main
+{
+    height: auto;
+    width: 100%;
+}
+.main img
+{
+    height: auto;
+    width: 100%;
+}
+.container
+{
+    display: flow-root;
+}
+.content
+{
+    width: 80%;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+.content h2
+{
+    margin-top: 20px;
+}
+.content p
+{
+    font-size: 17px;
+    margin-top: 16px;
+}
+.search
+{
+    width: 100%  ;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 0px;
+}
+#search
+{
+    margin-left: 29%;
+    padding: 15px 15% 15px 10px;
+}
+.button
+{
+    margin-left:  30%;
+    margin-top: 10px;
+    background-color: white;
+    color: blueviolet;
+}
+.btn1
+{
+    width: 42%;
+    padding: 10px 20px 10px 20px;
+}
+.btn1
+{
+    width: 50%;
+    padding: 10px 20px 10px 20px;
+}
+
+.category ul li
+{
+    padding-top: 5%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.container1
+{
+    display: flow-root;
+}
+.content1
+{
+    width: 80%;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+.content1 h2
+{
+    margin-top: 20px;
+}
+.content1 p
+{
+    font-size: 17px;
+    margin-top: 16px;
+}
+.text1
+{
+    height: 500px;
+    width: 100%;
+    margin-left: 1px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25PX;
+    font-weight: bold;
+}
+.post1
+{
+    height: 130px;
+    margin-top: 5%;
+} 
+
+.size
+{
+    font-size: 15px;
+}
+.post2 p
+{
+     font-size: 15p ;
+}
+.size2
+{
+    font-size: 15px;
+}
+.post3 p
+{
+    font-size: 15px;
+}
+.container2
+{
+    display: flow-root;
+    width: 100%;
+    margin-left: 6px;
+}
+.content2
+{
+    width: 80%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: 10%;
+    
+}
+.content2 h2
+{
+    margin-top: 20px;
+}
+.content2 p
+{
+    font-size: 17px;
+    margin-top: 16px;
+}
+.text4
+{
+    height: auto;
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.tagbutton
+{
+    height: auto;
+    width: 40%;
+
+}
+.list
+{
+    margin-top: 10px;
+    color: black;
+    font-size: 25px;
+}
+.list li
+{
+    margin-top: 15px;
+}
+.container3
+{
+    display: flow-root;
+}
+.content3
+{
+    width: 80%;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 10%;
+    
+}
+.content3 h2
+{
+    margin-top: 20px;
+}
+.content3 p
+{
+    font-size: 17px;
+    margin-top: 16px;
+}
+.font
+{
+    height: 220px;
+    width: 100%;
+    text-align: center;
+    font-size: 25PX;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.search1
+{
+    width: 50%  ;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+#search1
+{
+    margin-left: 27%;
+    padding: 15px 15% 15px 10px;
+}
+.button2
+{
+    margin-left: 30%;
+    margin-top: 10px;
+    background-color: white;
+    color: blueviolet;
+}
+.btn2
+{
+    width: 50%;
+    padding: 10px 20px 10px 20px;
+}
+.container4
+{
+    display: flow-root;
+}
+.content4
+{
+    width: 80%;
+    height: auto;
+    margin-top: 0%;
+    margin-left: 10%;
+    
+}
+
+.content4 h2
+{
+    margin-top: 20px;
+}
+.content4 p
+{
+    font-size: 17px;
+    margin-top: 16px;
+}
+.footer
+{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+    margin-top: 5%;
+    display: flex;
+    color: wheat;  
+    padding-top: 2%;
+    padding-left: 0%;
+    border: #010978 solid 2px;
+  
+}
+ .footer1 h4
+ {
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 10%;
+ }
+ .footer1 p
+ {
+    /* margin-top: 5%; */
+    font-size: 20px;
+    margin-left: 5%;
+    margin-right: 10%;
+ }
+ .footer2
+ {
+   
+ font-size: 20px;
+    /* margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 10%;
+    padding-left: 5%; */
+ 
+}
+ .footer2 h4
+ {
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+    padding-left: 5%;
+ }
+ .footer2 p
+ {
+    /* margin-top: 5%; */
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 5%;
+ }
+ .footer3 h4
+ {
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 10%;
+    /* padding-top: 20px; */
+ }
+ .footer3 p
+ {
+    /* margin-top: 5%; */
+    font-size: 17px;
+    margin-left: 4%;
+    margin-right: 32%;
+    /* padding-top: 1px; */
+    font-size: 20px;
+    
+ }
+ .footer4
+ {
+    font-size: 20px;
+    
+ }
+ .footer4 h4
+ {
+    font-size: 20px;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 34px;
+ }
+ .footer4 p
+ {
+    /* margin-top: 5%; */
+    font-size: 20px;
+    margin-left: 11%;
+    margin-right: 20%;
+
+ }
+ .footer4 input
+ {
+        font-size: 20px;
+        margin-left: 3%;
+        margin-right: 10%;
+        padding-left: 1px;
+ }
+ .event
+ {
+   
+    
+    margin-top: 295px;
+    margin-left: 35px;
+    position: absolute;
+    background-color: white;
+ }
+ .event img
+  {
+
+    position: relative;
+    left:0%;
+    bottom: 9%;
+ }
+
+
+
+
+
+
+
+}
